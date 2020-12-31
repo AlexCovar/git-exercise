@@ -1,1 +1,2 @@
-# git-exercise
+Practicing GitBash
+small change
